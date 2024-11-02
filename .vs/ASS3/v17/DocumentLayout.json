@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PRN231\\ASS3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB9942F-EF80-4A58-8AE5-21DBBCA0179E}|ASS3\\ASS3.csproj|d:\\prn231\\ass3\\ass3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB9942F-EF80-4A58-8AE5-21DBBCA0179E}|ASS3\\ASS3.csproj|solutionrelative:ass3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|d:\\prn231\\ass3\\bussinesslayer\\virocurefal2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\virocurefal2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|d:\\prn231\\ass3\\bussinesslayer\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB9942F-EF80-4A58-8AE5-21DBBCA0179E}|ASS3\\ASS3.csproj|d:\\prn231\\ass3\\ass3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB9942F-EF80-4A58-8AE5-21DBBCA0179E}|ASS3\\ASS3.csproj|solutionrelative:ass3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|d:\\prn231\\ass3\\bussinesslayer\\entities\\personvirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\entities\\personvirus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|d:\\prn231\\ass3\\bussinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15BB46-C85B-4D24-B222-880CCB95B80D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,8 +113,90 @@
               "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\ASS3\\appsettings.json",
+              "RelativeDocumentMoniker": "ASS3\\appsettings.json",
+              "ToolTip": "D:\\PRN231\\ASS3\\ASS3\\appsettings.json",
+              "RelativeToolTip": "ASS3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T13:27:47.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViroCureFal2024dbContext.cs",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\BussinessLayer\\ViroCureFal2024dbContext.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\ViroCureFal2024dbContext.cs",
+              "ToolTip": "D:\\PRN231\\ASS3\\BussinessLayer\\ViroCureFal2024dbContext.cs",
+              "RelativeToolTip": "BussinessLayer\\ViroCureFal2024dbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:27:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\ASS3\\Program.cs",
+              "RelativeDocumentMoniker": "ASS3\\Program.cs",
+              "ToolTip": "D:\\PRN231\\ASS3\\ASS3\\Program.cs",
+              "RelativeToolTip": "ASS3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:27:28.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonVirus.cs",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\BussinessLayer\\Entities\\PersonVirus.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Entities\\PersonVirus.cs",
+              "ToolTip": "D:\\PRN231\\ASS3\\BussinessLayer\\Entities\\PersonVirus.cs",
+              "RelativeToolTip": "BussinessLayer\\Entities\\PersonVirus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:25:50.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\BussinessLayer\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Entities\\Person.cs",
+              "ToolTip": "D:\\PRN231\\ASS3\\BussinessLayer\\Entities\\Person.cs",
+              "RelativeToolTip": "BussinessLayer\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:25:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:16:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN231\\ASS3\\BussinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\Class1.cs",
+              "ToolTip": "D:\\PRN231\\ASS3\\BussinessLayer\\Class1.cs",
+              "RelativeToolTip": "BussinessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:22:27.592Z",
+              "EditorCaption": ""
             }
           ]
         }
